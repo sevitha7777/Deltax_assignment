@@ -1,0 +1,3 @@
+-Website similar to spotify with CRUD operations that display top 10 songs and top 10 artists
+-On the top left you can find a button add song where user can give the song information along with artist information that will be displayed on the main page
+-User can rate a song(1-5) which effects top list songs...
